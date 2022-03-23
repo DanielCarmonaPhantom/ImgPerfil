@@ -1,3 +1,3 @@
-´´´
-print"Hola! Soy Daniel")
-´´´
+```
+print("Hola! Soy Daniel")
+```
