@@ -6,7 +6,7 @@
 </p>
 
 
-<div align ="center">    
+<div >    
     <a href='https://git.io/streak-stats'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCarmonaPhantom&theme=dracula&hide_border=false" height='200' width="25%"/>
     </a>    
