@@ -8,9 +8,9 @@
 
 <div align ="center">    
     <a href='https://git.io/streak-stats'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCarmonaPhantom&theme=dracula&hide_border=false"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCarmonaPhantom&theme=dracula&hide_border=false" height='350'/>
     </a>    
     <a href='https://git.io/streak-stats'>
-    <img src='http://github-readme-streak-stats.herokuapp.com?user=DanielCarmonaPhantom&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D'/>
+    <img src='http://github-readme-streak-stats.herokuapp.com?user=DanielCarmonaPhantom&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D' height='350' />
     </a>
 </div>
