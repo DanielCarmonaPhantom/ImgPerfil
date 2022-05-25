@@ -6,12 +6,9 @@
 </p>
 
 
-
-<a href=''> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DanielCarmonaPhantom&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a>
-
 <div align ="center">
   <a href="https://github.com/aleepsy">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aleepsy&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielCarmonaPhantom&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleepsy&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
