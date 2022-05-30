@@ -10,7 +10,5 @@
     <a href='https://git.io/streak-stats'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCarmonaPhantom&theme=dracula&hide_border=false" height='200' />
     </a>    
-    <a href='https://git.io/streak-stats'>
-        <img src='http://github-readme-streak-stats.herokuapp.com?user=DanielCarmonaPhantom&theme=dracula&hide_border=true' >
-    </a>
+
 </div>
